@@ -8,7 +8,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    final String URL = "https://picsum.photos/512/512/?random";
+    final String URL = "https://loremflickr.com/512/512";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
